@@ -7,11 +7,7 @@ Este proyecto tiene como objetivo listar los números del 1 al 1 millón de mane
 Diagrama de Flujo
 El proceso de listar los números se representa en el siguiente diagrama de flujo:
 
-![Diagrama de Flujo](https://raw.githubusercontent.com/marilynpb/AcedemiaTalendProveedorGolosinas/main/src/DiagramaDeFlujo.jpg)
-
 ![Diagrama de Flujo](https://github.com/marilynpb/AcedemiaTalendFor/blob/b93df4e1a3cdbe22474f7312c6569a086949cd78/src/DiagramaDeFlujo.jpg)
-
-
 
 
 
